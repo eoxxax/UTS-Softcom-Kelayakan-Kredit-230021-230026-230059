@@ -1,0 +1,8 @@
+# requirements.txt
+# Simpan file ini di folder yang sama dengan app_streamlit.py
+
+streamlit
+numpy
+pandas
+matplotlib
+scikit-learn

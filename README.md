@@ -168,5 +168,5 @@ Split: 80% training (400 baris) / 20% testing (100 baris), stratified.
 **Soft Computing** — UTS Genap 2025/2026  
 Dosen: Dr. Ir. Intan Nurma Yulita, M.T  
 Fakultas MIPA — Teknik Informatika
-
 Universitas Padjadjaran
+
